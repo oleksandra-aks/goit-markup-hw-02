@@ -1,0 +1,87 @@
+.body{
+    font-family: 'Roboto' ;
+    background-color: #FFFFFF;
+    color: #434455;
+}
+
+.body ul{
+    list-style-type: none;
+}
+
+.header  a{
+    text-decoration: none;
+    color: #2E2F42;
+}
+
+.site-name{
+    font-family: 'Raleway';
+    color: #2E2F42;
+    font-weight: 700;
+    font-size: 18px;
+    
+}
+
+.navigation{
+    color: #2E2F42;
+    font-weight: 500;
+}
+
+.navigation:hover,
+.navigation:focus{
+    color: #404BBF;
+}
+
+.contacts{
+    font-weight: 400;
+}
+
+.contacts:hover,
+.contacts:focus{
+    color: #404BBF;
+}
+
+
+
+.web{
+    color: #4D5AE5;
+}
+
+
+.first-section{
+    background-color: #2E2F42;
+    color: #FFFFFF;
+    font-weight: 700;
+}
+
+.order-button{
+    color: #FFFFFF;
+    font-weight: 500;
+    background-color: #4D5AE5;
+    border: none;
+}
+
+.order-button:hover,
+.order-button:focus{
+    background-color: #404BBF;
+}
+
+.third-section{
+    background-color: #F4F4FD;
+}
+
+.our-team{
+    background-color: #FFFFFF;
+}
+
+.footer{
+    background-color: #2E2F42;
+    color: #F4F4FD;
+}
+
+.site-name-footer{
+    font-family: 'Raleway';
+    color: #F4F4FD;
+    font-weight: 700;
+    font-size: 18px;
+    text-decoration: none;
+}
