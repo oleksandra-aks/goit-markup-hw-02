@@ -2,6 +2,7 @@
     font-family: 'Roboto' ;
     background-color: #FFFFFF;
     color: #434455;
+    font-size: 16px;
 }
 
 .body ul{
@@ -53,6 +54,10 @@
     font-weight: 700;
 }
 
+h1{
+    font-size: 56px;
+}
+
 .order-button{
     color: #FFFFFF;
     font-weight: 500;
@@ -65,14 +70,37 @@
     background-color: #404BBF;
 }
 
+.second-section h2{
+    visibility: hidden;
+}
+
+.second-section h3{
+    font-size: 20px;
+}
+
 .third-section{
     background-color: #F4F4FD;
+}
+
+.third-section h2{
+    font-size: 36px;
+}
+
+.third-section h3{
+    font-size: 20px;
 }
 
 .our-team{
     background-color: #FFFFFF;
 }
 
+.fourth-section h2{
+    font-size: 36px;
+}
+
+.fourth-section h3{
+    font-size: 20px;
+}
 .footer{
     background-color: #2E2F42;
     color: #F4F4FD;
