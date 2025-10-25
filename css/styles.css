@@ -19,12 +19,14 @@
     color: #2E2F42;
     font-weight: 700;
     font-size: 18px;
+    line-height: 1.166;
     
 }
 
 .navigation{
     color: #2E2F42;
     font-weight: 500;
+    line-height: 1.5;
 }
 
 .navigation:hover,
@@ -34,6 +36,7 @@
 
 .contacts{
     font-weight: 400;
+    line-height: 1.5;
 }
 
 .contacts:hover,
@@ -56,6 +59,7 @@
 
 h1{
     font-size: 56px;
+    line-height: 1.071;
 }
 
 .order-button{
@@ -63,6 +67,8 @@ h1{
     font-weight: 500;
     background-color: #4D5AE5;
     border: none;
+    line-height: 1.5;
+    cursor: pointer;
 }
 
 .order-button:hover,
@@ -76,6 +82,11 @@ h1{
 
 .second-section h3{
     font-size: 20px;
+    line-height: 1.2;
+}
+
+.second-section p{
+    line-height: 1.5;
 }
 
 .third-section{
@@ -84,10 +95,16 @@ h1{
 
 .third-section h2{
     font-size: 36px;
+    line-height: 1.111;
 }
 
 .third-section h3{
     font-size: 20px;
+    line-height: 1.2;
+}
+
+.third-section p{
+    line-height: 1.5;
 }
 
 .our-team{
@@ -96,10 +113,16 @@ h1{
 
 .fourth-section h2{
     font-size: 36px;
+    line-height: 1.111;
 }
 
 .fourth-section h3{
     font-size: 20px;
+    line-height: 1.2;
+}
+
+.fourth-section p{
+    line-height: 1.5;
 }
 .footer{
     background-color: #2E2F42;
@@ -112,4 +135,9 @@ h1{
     font-weight: 700;
     font-size: 18px;
     text-decoration: none;
+    line-height: 1.166
+}
+
+.footer p{
+    line-height: 1.5;
 }
