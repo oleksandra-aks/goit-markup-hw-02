@@ -1,4 +1,4 @@
-.body{
+body{
     font-family: 'Roboto', sans-serif ;
     background-color: #FFFFFF;
     color:#434455;
@@ -22,6 +22,7 @@
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .navigation{
@@ -39,6 +40,7 @@
 .address{
     font-style: normal;
 }
+
 .contacts{
     font-weight: 400;
     line-height: 1.5;
@@ -87,10 +89,6 @@
     background-color: #404BBF;
 }
 
-.features{
-    visibility: hidden;
-}
-
 .advantage-title{
     font-size: 20px;
     line-height: 1.2;
@@ -102,6 +100,7 @@
 .advantage-list{
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 
 }
 
