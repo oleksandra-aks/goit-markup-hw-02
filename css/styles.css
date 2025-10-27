@@ -89,6 +89,10 @@ body{
     background-color: #404BBF;
 }
 
+.features{
+    visibility: hidden;
+}
+
 .title{
     font-size: 20px;
     line-height: 1.2;
