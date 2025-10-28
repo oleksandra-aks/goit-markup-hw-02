@@ -101,7 +101,7 @@ body{
     color: #2E2F42;
 }
 
-.third-section .title{
+.our-team-list .title{
      font-size: 20px;
     line-height: 1.2;
     font-weight: 500;
@@ -116,7 +116,7 @@ body{
     color: #434455;
 }
 
-.third-section .advantage-list{
+.our-team-list .advantage-list{
      line-height: 1.5;
     letter-spacing: 0.02em;
     font-size: 16px;
