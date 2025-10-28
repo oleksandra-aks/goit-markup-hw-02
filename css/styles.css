@@ -101,8 +101,23 @@ body{
     color: #2E2F42;
 }
 
+.third-section .title{
+     font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
 .advantage-list{
     line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-size: 16px;
+    color: #434455;
+}
+
+.third-section .advantage-list{
+     line-height: 1.5;
     letter-spacing: 0.02em;
     font-size: 16px;
     color: #434455;
