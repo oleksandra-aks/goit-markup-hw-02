@@ -101,13 +101,7 @@ body{
     color: #2E2F42;
 }
 
-.our-team-list .title{
-     font-size: 20px;
-    line-height: 1.2;
-    font-weight: 500;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
-}
+
 
 .advantage-list{
     line-height: 1.5;
@@ -116,12 +110,6 @@ body{
     color: #434455;
 }
 
-.our-team-list .advantage-list{
-     line-height: 1.5;
-    letter-spacing: 0.02em;
-    font-size: 16px;
-    color: #434455;
-}
 
 .third-section{
     background-color: #F4F4FD;
@@ -141,7 +129,20 @@ body{
 }
 
 
+.third-section-title{
+    font-size: 20px;
+    line-height: 1.2;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
 
+.team-list{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    font-size: 16px;
+    color: #434455;
+}
 
 
 .portfolio-main{
